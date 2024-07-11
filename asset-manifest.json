@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/degazation-site/static/css/main.15ac78fa.css",
+    "main.js": "/degazation-site/static/js/main.5d7aa872.js",
+    "static/media/hero.jpg": "/degazation-site/static/media/hero.794a8f8749bdf27651ad.jpg",
+    "index.html": "/degazation-site/index.html",
+    "main.15ac78fa.css.map": "/degazation-site/static/css/main.15ac78fa.css.map",
+    "main.5d7aa872.js.map": "/degazation-site/static/js/main.5d7aa872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ac78fa.css",
+    "static/js/main.5d7aa872.js"
+  ]
+}
